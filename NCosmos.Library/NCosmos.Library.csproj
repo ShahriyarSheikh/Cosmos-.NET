@@ -6,14 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Common\" />
-    <Folder Include="Implementation\" />
-    <Folder Include="Models\Core\" />
-    <Folder Include="Models\Messages\" />
-    <Folder Include="Models\Response\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
   </ItemGroup>
 

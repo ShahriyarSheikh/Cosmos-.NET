@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.28917.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NCosmos.Console", "NCosmos.Console\NCosmos.Console.csproj", "{C95F4E15-0FA7-4246-B2F2-9E5BC8961F00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCosmos.Library", "NCosmos.Library\NCosmos.Library.csproj", "{71E5B328-3E61-42D5-BE6C-3C1D4A188BBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NCosmos.Library", "NCosmos.Library\NCosmos.Library.csproj", "{71E5B328-3E61-42D5-BE6C-3C1D4A188BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCosmos.UnitTests", "NCosmos.UnitTests\NCosmos.UnitTests.csproj", "{C58B8318-EE52-4146-AB2F-3E6B1A285F2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{71E5B328-3E61-42D5-BE6C-3C1D4A188BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71E5B328-3E61-42D5-BE6C-3C1D4A188BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71E5B328-3E61-42D5-BE6C-3C1D4A188BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58B8318-EE52-4146-AB2F-3E6B1A285F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58B8318-EE52-4146-AB2F-3E6B1A285F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58B8318-EE52-4146-AB2F-3E6B1A285F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58B8318-EE52-4146-AB2F-3E6B1A285F2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
